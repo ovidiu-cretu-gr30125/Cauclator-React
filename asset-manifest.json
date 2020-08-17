@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Cauclator-React/static/css/main.eb17df18.chunk.css",
+    "main.js": "/Cauclator-React/static/js/main.d01e882a.chunk.js",
+    "main.js.map": "/Cauclator-React/static/js/main.d01e882a.chunk.js.map",
+    "runtime-main.js": "/Cauclator-React/static/js/runtime-main.738644a2.js",
+    "runtime-main.js.map": "/Cauclator-React/static/js/runtime-main.738644a2.js.map",
+    "static/js/2.6912228e.chunk.js": "/Cauclator-React/static/js/2.6912228e.chunk.js",
+    "static/js/2.6912228e.chunk.js.map": "/Cauclator-React/static/js/2.6912228e.chunk.js.map",
+    "index.html": "/Cauclator-React/index.html",
+    "precache-manifest.3239e82284e2fad1ee274e1f9f113b21.js": "/Cauclator-React/precache-manifest.3239e82284e2fad1ee274e1f9f113b21.js",
+    "service-worker.js": "/Cauclator-React/service-worker.js",
+    "static/css/main.eb17df18.chunk.css.map": "/Cauclator-React/static/css/main.eb17df18.chunk.css.map",
+    "static/js/2.6912228e.chunk.js.LICENSE.txt": "/Cauclator-React/static/js/2.6912228e.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Cauclator-React/static/media/unnamed.2e770dc7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.738644a2.js",
+    "static/js/2.6912228e.chunk.js",
+    "static/css/main.eb17df18.chunk.css",
+    "static/js/main.d01e882a.chunk.js"
+  ]
+}
