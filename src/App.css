@@ -2,6 +2,7 @@
   height: 60px;
   background-color: #bbb;
   width: 100%;
+    opacity: 0.5;
 }
 
 .result p {
@@ -11,10 +12,17 @@
 }
 
 .calculator-body {
-  max-width: 400px;
+  max-width: 500px;
+  max-height: 1000px;
   margin: auto;
+  text-align: right;
+  font-family: "Comic Sans MS", serif;
 }
-
+#h1{
+  text-align: center;
+  color: white;
+  font-family: "Comic Sans MS", serif;
+}
 .button {
   display: block;
 }
@@ -23,7 +31,9 @@ button {
   width: 25%;
   height: 60px;
   font-size: 30px;
-  background-color: gray;
+  font-family: "Comic Sans MS", serif;
+  background-color: dimgray;
+    opacity: 0.6;
   transition-duration: 0.5s;
   cursor: pointer;
   color: black;
@@ -35,5 +45,30 @@ button:hover {
 }
 
 body{
-  background-color: #555555;
+  background-image:
+          url("pngwing.com.png"),
+          url("ClipartKey_2783339.png"),
+          url("PngItem_5331595.png"),
+          url("unnamed.png");
+  background-position:
+          right top,
+          bottom left 200px,
+          bottom right 400px,
+          center;
+  background-repeat:
+          no-repeat,
+          no-repeat,
+          no-repeat,
+          repeat;
+background-size:
+        400px 400px,
+        300px 300px,
+        200px 200px,
+         auto;
 }
+footer{
+    color: white;
+    text-align: center;
+}
+
+
